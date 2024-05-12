@@ -1,0 +1,64 @@
+[02:12:33] alt:V Server 16.0.155 (release)
+[02:12:33] Starting alt:V Server on [::]:7788
+[02:12:33][Warning] Found multiple executables for module js-module . Using "C:\\Users\\ivan\\Documents\\altv-server\\modules\\js-module.dll"
+[02:12:33] Loading resource chat
+[02:12:34] Loaded resource chat
+[02:12:34] Loading resource freeroam
+[02:12:34][Warning] Trying to import resource 'chat' without 'alt:' prefix, this is deprecated behaviour.
+[02:12:34][Warning] Import 'alt:chat' instead to silence this warning.
+[02:12:34] Loaded resource freeroam
+[02:12:34] Required server permissions:
+[02:12:34] Optional server permissions:
+[02:12:34] Starting HTTP server on [::]:7788
+[02:12:34] Main thread started (ThreadId: 32532)
+[02:12:34] EntityStreamer thread started (ThreadId: 29932)
+[02:12:34] SyncSend thread started (ThreadId: 40580)
+[02:12:34] SyncSend thread started (ThreadId: 40764)
+[02:12:34] SyncSend thread started (ThreadId: 41604)
+[02:12:34] SyncSend thread started (ThreadId: 19628)
+[02:12:34] SyncSend thread started (ThreadId: 6068)
+[02:12:34] SyncSend thread started (ThreadId: 12860)
+[02:12:34] SyncSend thread started (ThreadId: 16536)
+[02:12:34] SyncSend thread started (ThreadId: 43232)
+[02:12:34] SyncReceive thread started (ThreadId: 38884)
+[02:12:34] SyncReceive thread started (ThreadId: 1472)
+[02:12:34] SyncReceive thread started (ThreadId: 43716)
+[02:12:34] SyncReceive thread started (ThreadId: 1204)
+[02:12:34] NetworkWorker #1 thread started (ThreadId: 40420)
+[02:12:34] Console thread started (ThreadId: 6704)
+[02:12:34][Warning] Server started in debug mode
+[02:12:38] Sending accept 1 IvanBeet
+[02:13:04] [chat:cmd] IvanBeet: /help
+[02:13:16] [chat:cmd] IvanBeet: /weapons
+[02:14:03] [chat:cmd] IvanBeet: /veh t20
+[02:14:36] [chat:cmd] IvanBeet: /model
+[02:14:42] [chat:cmd] IvanBeet: /model IvanBeet
+[02:14:56] [chat:cmd] IvanBeet: /veh infernus
+[02:15:02] [chat:cmd] IvanBeet: /veh r8
+[02:15:02][Error] Failed to create vehicle: 3500646633 is not a proper model hash
+[02:15:02] Error: Failed to create vehicle
+    at file:///C:/Users/ivan/Documents/altv-server/resources/freeroam/server/index.js:195:19
+[02:15:16] [chat:cmd] IvanBeet: /x8proto
+[02:15:28] [chat:cmd] IvanBeet: /veh x80proto
+[02:15:28][Error] Failed to create vehicle: 2174074486 is not a proper model hash
+[02:15:28] Error: Failed to create vehicle
+    at file:///C:/Users/ivan/Documents/altv-server/resources/freeroam/server/index.js:195:19
+[02:15:33] [chat:cmd] IvanBeet: /veh list
+[02:15:33][Error] Failed to create vehicle: 3264347791 is not a proper model hash
+[02:15:33] Error: Failed to create vehicle
+    at file:///C:/Users/ivan/Documents/altv-server/resources/freeroam/server/index.js:195:19
+[02:15:38] [chat:cmd] IvanBeet: /veh x80
+[02:15:38][Error] Failed to create vehicle: 3843561300 is not a proper model hash
+[02:15:38] Error: Failed to create vehicle
+    at file:///C:/Users/ivan/Documents/altv-server/resources/freeroam/server/index.js:195:19
+[02:15:45] [chat:cmd] IvanBeet: /veh ztypew
+[02:15:45][Error] Failed to create vehicle: 4259803452 is not a proper model hash
+[02:15:45] Error: Failed to create vehicle
+    at file:///C:/Users/ivan/Documents/altv-server/resources/freeroam/server/index.js:195:19
+[02:15:48] [chat:cmd] IvanBeet: /veh ztype
+[02:16:15] [chat:cmd] IvanBeet: /tp
+[02:16:37] Stopping resource chat
+[02:16:37] Stopping resource freeroam
+[02:16:37] Stopped resource freeroam
+[02:16:37] Stopped resource chat
+[02:16:37] Server shutdown
